@@ -1,5 +1,8 @@
-# 2020_US_election_tweets_analysis
-Sentiment analysis of 2020 Election tweets
+# 2020 US Election Tweets — Sentiment Analysis
+
+`Python` `NLP` `Machine Learning` `Sentiment Analysis` `TextBlob` `Google Cloud NLP`
+
+An NLP pipeline that scores public sentiment toward Joe Biden and Donald Trump from roughly a month of pre-election tweets, then trains and compares several ML classifiers (Logistic Regression, Naive Bayes, Random Forest, Gradient Boosting, SVM, Decision Tree) to predict state-level election outcomes from that sentiment.
 
 ### Context
 We used tweets from Kaggle and Twitter API to get a dataset on tweets 1 month prior to the 2020 US elections.
